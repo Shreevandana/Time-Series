@@ -15,8 +15,8 @@ Developing a forecasting model that can accurately predict the trend for future 
 3. Computing a moving average for the data and overlaying on the original time-series plot. 
 4. Computing the first difference of the data and plotting the ACF and PACF for the differenced data.
 5. Performing a first seasonal difference with the seasonal period.
-6. Develop a suitable SARIMA model that can be applied on the time series.
-7. Forecast analyse mean squared error.
+6. Developing a suitable SARIMA model that can be applied on the time series.
+7. Forecasting and analysing the mean squared error.
 
 # Reference
 
